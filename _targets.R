@@ -34,7 +34,7 @@ list(
                                                        "Dippach",
                                                        "Wiltz",
                                                        "Esch/Alzette",
-                                                       "Mersch"),
+                                                       "Mersch", "Dudelange"),
                             col_of_interest = active_population)
         ),
         
